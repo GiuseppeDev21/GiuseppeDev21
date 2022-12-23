@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from Panama</h3>
 <img align="right" alt="8 bits image" width="400" src="https://media3.giphy.com/media/t6Kf2qs5fgWiAlOig5/giphy.gif?cid=790b761151044956e8d87e1fcf19d72ea0de9fc7287b5a70&rid=giphy.gif&ct=s"> 
 
-- 🔭 I’m currently working on [Matrices-Determinantes Project](https://github.com/GiuseppeDev21/Matrices-Determinantes)
+- 🔭 I’m currently working on [Pokemon-Cards](https://github.com/GiuseppeDev21/Pokemon-Cards)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [React Project](https://reactjs.org/docs/create-a-new-react-app.html)
 
-- 🤝 I’m looking for help with [Rust](https://www.rust-lang.org/)
+- 🤝 I’m looking for help with Svelte
 
 - 💬 Ask me about **[Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)**
 
